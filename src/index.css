@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "regular";
+    src: url("/fonts/regular.otf");
+}
+
+@font-face {
+    font-family: "medium";
+    src: url("/fonts/medium.otf");
+}
+
+@font-face {
+    font-family: "bold";
+    src: url("/fonts/bold.otf");
+}
+
+@font-face {
+    font-family: "semibold";
+    src: url("/fonts/semibold.otf");
+}
